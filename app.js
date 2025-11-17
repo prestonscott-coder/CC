@@ -20,4 +20,4 @@ function minMax(arr){
 //used .sort on the parameter to order the array from smallest to largest 
 // I returned using index 0 for the first element 
 // I returned the last element by subtracting 1 from the index which after it being sorted will be the highest value.
-// Need to ensure that arr is placed in front of the arr.length -1 property so it knows which parameter to run based off of
+// Need to ensure that arr is placed in front of the arr.length -1 property so it knows which parameter to run based off of.
